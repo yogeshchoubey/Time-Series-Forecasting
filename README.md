@@ -1,4 +1,4 @@
-# Times Series Analysis and Forcast:
+# Times Series Analysis and Forcasting:
 
 Steps:
 1) Create dataframe from the csv file or kafka stream.
